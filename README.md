@@ -1,4 +1,4 @@
-# Stone-Paper-Scissor-Game
+# Stone-Paper-Scissor Game.
 Welcome to my Game🙋‍♀️, 
 <br>
 <br>
@@ -8,4 +8,4 @@ We all familiar with the game of Rock, Paper, Scissors which we play with hands 
 So, by making it different let's play with the Computer.😎
 <br>
 <br>
-Enjoy the game!
+Enjoy the Game!
